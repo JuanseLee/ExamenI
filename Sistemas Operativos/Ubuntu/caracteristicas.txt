@@ -1,0 +1,4 @@
+Ubuntu es un sistema operativo de uso libre (Gratuito) el cual es 
+comunmente utilizado entre los programadores dado a su facilidad de 
+edicion y optimizacion para crear codigo. Es uno de los sistemas 
+operativos mas populares junto con windows y MacOS
